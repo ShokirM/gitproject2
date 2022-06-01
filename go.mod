@@ -1,3 +1,3 @@
-module github.com/MSHE97/gitproject2
+module github.com/ShokirM/gitproject2.git
 
 go 1.17
